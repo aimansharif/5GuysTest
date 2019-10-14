@@ -1,5 +1,6 @@
 //new line added
 
+<<<<<<< HEAD
 //checking for git stash
 
 //new things added to this github repository
@@ -11,3 +12,8 @@
 =======
 //another line added
 >>>>>>> master
+=======
+//new line added once again
+
+//new thing added
+>>>>>>> TestBranch
